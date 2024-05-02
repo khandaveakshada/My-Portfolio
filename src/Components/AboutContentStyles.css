@@ -1,0 +1,53 @@
+.about{
+    width: 100%;
+    margin: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+
+.about  .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 500px;
+     
+} 
+
+
+
+.about .left p{
+    margin: 2rem 0;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+
+.about .right{
+    max-width: 1000px;
+   
+
+   
+}
+
+.right   .img-container{
+  
+   position: relative;
+align-items: center;
+text-align: center;
+
+
+}
+
+.right .img{
+    max-width: 50%;
+    margin-top: 15rem;
+    margin-right: 2rem;
+    border-radius: 15rem;
+}
+
+
+
